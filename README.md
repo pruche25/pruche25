@@ -30,7 +30,9 @@ AWS <br></br>
 Tools <br></br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=Logstash&logoColor=white"/>
-<img src="https://img.shields.io/badge/kibana-005571?style=flat-square&logo=kibana&logoColor=white"/>
+<img src="https://img.shields.io/badge/kibana-005571?style=flat-square&logo=kibana&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
 <!--
 **pruche25/pruche25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
